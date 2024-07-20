@@ -1,0 +1,7 @@
+C:\Users\SERVTECH\source\repos\C_Sharp_Fond_Fourth_Part\C_Sharp_Fond_Fourth_Part\bin\Debug\C_Sharp_Fond_Fourth_Part.exe.config
+C:\Users\SERVTECH\source\repos\C_Sharp_Fond_Fourth_Part\C_Sharp_Fond_Fourth_Part\bin\Debug\C_Sharp_Fond_Fourth_Part.exe
+C:\Users\SERVTECH\source\repos\C_Sharp_Fond_Fourth_Part\C_Sharp_Fond_Fourth_Part\bin\Debug\C_Sharp_Fond_Fourth_Part.pdb
+C:\Users\SERVTECH\source\repos\C_Sharp_Fond_Fourth_Part\C_Sharp_Fond_Fourth_Part\obj\Debug\C_Sharp_Fond_Fourth_Part.csproj.AssemblyReference.cache
+C:\Users\SERVTECH\source\repos\C_Sharp_Fond_Fourth_Part\C_Sharp_Fond_Fourth_Part\obj\Debug\C_Sharp_Fond_Fourth_Part.csproj.CoreCompileInputs.cache
+C:\Users\SERVTECH\source\repos\C_Sharp_Fond_Fourth_Part\C_Sharp_Fond_Fourth_Part\obj\Debug\C_Sharp_Fond_Fourth_Part.exe
+C:\Users\SERVTECH\source\repos\C_Sharp_Fond_Fourth_Part\C_Sharp_Fond_Fourth_Part\obj\Debug\C_Sharp_Fond_Fourth_Part.pdb

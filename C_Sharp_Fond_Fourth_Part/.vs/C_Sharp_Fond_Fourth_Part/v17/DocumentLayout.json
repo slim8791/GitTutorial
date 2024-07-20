@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SERVTECH\\source\\repos\\C_Sharp_Fond_Fourth_Part\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E403AC3-934D-41B5-9316-32C79EBFA61A}|C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part.csproj|c:\\users\\servtech\\source\\repos\\c_sharp_fond_fourth_part\\c_sharp_fond_fourth_part\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E403AC3-934D-41B5-9316-32C79EBFA61A}|C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part.csproj|solutionrelative:c_sharp_fond_fourth_part\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E403AC3-934D-41B5-9316-32C79EBFA61A}|C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part.csproj|c:\\users\\servtech\\source\\repos\\c_sharp_fond_fourth_part\\c_sharp_fond_fourth_part\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E403AC3-934D-41B5-9316-32C79EBFA61A}|C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part.csproj|solutionrelative:c_sharp_fond_fourth_part\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E403AC3-934D-41B5-9316-32C79EBFA61A}|C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part.csproj|c:\\users\\servtech\\source\\repos\\c_sharp_fond_fourth_part\\c_sharp_fond_fourth_part\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E403AC3-934D-41B5-9316-32C79EBFA61A}|C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part.csproj|solutionrelative:c_sharp_fond_fourth_part\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\SERVTECH\\source\\repos\\C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part\\Level.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Fond_Fourth_Part\\Level.cs",
+              "ToolTip": "C:\\Users\\SERVTECH\\source\\repos\\C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part\\Level.cs",
+              "RelativeToolTip": "C_Sharp_Fond_Fourth_Part\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:59:22.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\SERVTECH\\source\\repos\\C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part\\Exam.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Fond_Fourth_Part\\Exam.cs",
+              "ToolTip": "C:\\Users\\SERVTECH\\source\\repos\\C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part\\Exam.cs",
+              "RelativeToolTip": "C_Sharp_Fond_Fourth_Part\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:58:30.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SERVTECH\\source\\repos\\C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part\\Program.cs",
+              "RelativeDocumentMoniker": "C_Sharp_Fond_Fourth_Part\\Program.cs",
+              "ToolTip": "C:\\Users\\SERVTECH\\source\\repos\\C_Sharp_Fond_Fourth_Part\\C_Sharp_Fond_Fourth_Part\\Program.cs",
+              "RelativeToolTip": "C_Sharp_Fond_Fourth_Part\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T10:22:45.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
