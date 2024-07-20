@@ -23,7 +23,7 @@ namespace C_Sharp_Fond_Fourth_Part
             {
                 Console.WriteLine(ex.Message);
             }
-            catch (Ma3inichException ex)
+            catch (ExceptionJdida ex)
             {
                 Console.WriteLine(ex.Message);
             }
@@ -42,7 +42,7 @@ namespace C_Sharp_Fond_Fourth_Part
             }
             if (age == 20)
             {
-                throw new Ma3inichException("inside Ma3inichException ");
+                throw new ExceptionJdida("inside Ma3inichException ");
             }
             else
             {
